@@ -4,7 +4,9 @@
 RESULT_DIR=/Users/lars/Desktop/sw-carpentry/results   #$PWD/results
 #input directory for molecules data
 INPUT_DIR=/Users/lars/Desktop/sw-carpentry/molecules
-#Do not change here except you know what you are doing!
+
+
+#Do not change below except you know what you are doing!
 
 rm -rf $RESULT_DIR
 mkdir $RESULT_DIR
