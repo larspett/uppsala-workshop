@@ -1,0 +1,15 @@
+.DS_Store	
+.gitconfig
+automate_run.bash
+creatures/
+data-shell/
+data/
+*.txt
+molecules/
+molecules_backup/
+north-pacific-gyre/
+pizza.cfg
+results/
+*.pdf
+thesis_2018/
+writing/
