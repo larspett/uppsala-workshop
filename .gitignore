@@ -15,12 +15,5 @@ thesis_2018/
 writing/
 .Rproj.user
 data-shell/.bash_profile
-data/amino-acids.txt
-data/animal-counts/
-data/animals.txt
-data/elements/
-data/morse.txt
-data/pdb/
-data/planets.txt
-data/salmon.txt
-data/sunspot.txt
+data/
+!data/feline-data.csv
