@@ -8,7 +8,10 @@ data/
 molecules/
 molecules_backup/
 north-pacific-gyre/
-pizza.cfg
+output.txt
+final_results.txt
+length_sorted.txt
+length.txt
 results/
 *.pdf
 thesis_2018/
