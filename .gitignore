@@ -22,4 +22,4 @@ data/pdb
 cleaned_data/
 .RData
 .Rhistory
-
+*.html
