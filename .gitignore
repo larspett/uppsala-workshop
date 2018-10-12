@@ -16,5 +16,5 @@ writing/
 .Rproj.user
 data-shell/.bash_profile
 data/
-cleaned-data/
+cleaned_data/
 !data/feline-data.csv
