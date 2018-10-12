@@ -4,7 +4,6 @@ automate_run.bash
 creatures/
 data-shell/
 data/
-*.txt
 molecules/
 molecules_backup/
 north-pacific-gyre/
