@@ -20,4 +20,6 @@ data/animal-counts/
 data/elements
 data/pdb
 cleaned_data/
+.RData
+.Rhistory
 
