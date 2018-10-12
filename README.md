@@ -2,7 +2,7 @@
 Repository to save my files from the SWC workshop
 
 Please try our code by clicking on:
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/larspett/uppsala-workshop/tree/master/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/larspett/uppsala-workshop/master)
 
 This repository is publicly available. See LICENSE file for conditions.
 
